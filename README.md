@@ -12,6 +12,9 @@ Lots of credit goes to StackOverflow commenters on these, with forum threads lin
 This is also my first github repo, so play nice as I figure out what I'm doing :) 
 
 -Sean McMinn
+
 Data reporter, CQ Roll Call
+
 @shmcminn
+
 seanmcminn@cqrollcall.com
