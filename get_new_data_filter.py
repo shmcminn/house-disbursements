@@ -107,7 +107,7 @@ for filename in all_files:
 fieldnames.append("DOCUMENT_FILE")
 
 # Then copy the data
-with open("master_orient_spending.csv", "w", newline="", encoding = "ISO-8859-1") as f_out:   # Comment 2 below
+with open("filter_spending.csv", "w", newline="", encoding = "ISO-8859-1") as f_out:   # Comment 2 below
   writer = csv.DictWriter(f_out, fieldnames=fieldnames)
   f_out.write(",".join(fieldnames)+"\n")
   for filename in all_files:
